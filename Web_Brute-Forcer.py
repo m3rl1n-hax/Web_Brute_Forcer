@@ -13,7 +13,7 @@ Description:
   
 License: 
   No license. Hack it, crack it, break it, fork it, torch it, repack it. If you’re 
-  reading this, you already own it. The field where I grow my fucks is baron ;)
+  reading this, you already own it. The field where I grow my fucks is barren ;)
   Fucks <=0
   
 Disclaimer:
